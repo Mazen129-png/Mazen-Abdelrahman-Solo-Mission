@@ -1,5 +1,5 @@
 Schematic:
-<img width="981" height="987" alt="Image" src="https://github.com/user-attachments/assets/f8ba66c5-c0a5-4cfd-ab5d-45a80f19a2e5" />
+<img width="1045" height="661" alt="Schematic" src="https://github.com/user-attachments/assets/28f9524b-d719-46be-ab0d-683efd53c681" />
 
 PCB Layout:
 <img width="808" height="735" alt="Image" src="https://github.com/user-attachments/assets/cd9cfe38-5341-41fc-bcc6-0771a6f71106" />
